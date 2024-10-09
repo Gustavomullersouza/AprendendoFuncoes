@@ -6,7 +6,6 @@ public class ExemploGPTFuncao {
 
             converterTemperatura(temperatura, escala);
         }
-
         public static void converterTemperatura(double temperatura, char escala) {
             double  temperaturaConvertida = 0;
 
